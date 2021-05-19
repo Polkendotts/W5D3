@@ -14,14 +14,7 @@ nav li {
   display: inline-block;
 }
 
-section:nth-of-type(1) {
-  display: inline-block;
-}
-
-aside {
-  display: inline-block
-}
-a {
+ a {
   display: inline-block;
   padding: 20px;
 }
