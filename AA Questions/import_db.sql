@@ -18,7 +18,7 @@ CREATE TABLE questions (
 
 CREATE TABLE question_follows (
   id INTEGER PRIMARY KEY,
-
+xz
   user_id INTEGER NOT NULL,
   
 

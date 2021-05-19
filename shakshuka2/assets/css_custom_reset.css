@@ -20,7 +20,24 @@ nav li {
 }
 
 body {
+  margin: 0 auto; 
+  width: 900px;
   line-height: 1.5;
+}
+
+main {
+  width: 700px; 
+}
+
+section:nth-of-type(1) {
+  display: inline-block ;
+  /* float: left; */
+}
+
+aside {
+  display: inline-block;
+  width: 180px; 
+  /* float: left;  */
 }
 
 ol, ul {
