@@ -6,6 +6,18 @@ html, body, div, span, h1, h2, h3, h4, a, ol, ul, li, form, label, article, asid
   font: inherit;
   vertical-align: baseline;
 }
+nav {
+  float: right;
+}
+
+nav li {
+  display: inline-block;
+}
+
+ a {
+  display: inline-block;
+  padding: 20px;
+}
 
 body {
   line-height: 1.5;
